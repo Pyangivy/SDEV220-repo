@@ -3,7 +3,7 @@
 
 import datetime
 
-filename = datetime.datetime.now()
+filename = datetime.date.today()
 
 def create_file():
 
